@@ -5,10 +5,10 @@ Go Sofi Go è un ibrido deambulatore-passeggino nato per restituire autonomia ag
 
 Il team
 
-Giulia Bodo
-Mauro Cristofanelli
-Gianfilippo Di Liberato
-Valentina Massa
-Michela Patrucco
-Maria Chiara Ludovica Pazzagli
-Paola Soncin
+- Giulia Bodo
+- Mauro Cristofanelli
+- Gianfilippo Di Liberato
+- Valentina Massa
+- Michela Patrucco
+- Maria Chiara Ludovica Pazzagli
+- Paola Soncin
